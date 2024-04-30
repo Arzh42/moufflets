@@ -1,4 +1,4 @@
-## Moufflejs
+## MouffleTS
 
 The lightweightest JS framework on the market
 
